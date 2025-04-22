@@ -1,0 +1,11 @@
+Data,Vendedor,Produto,Quantidade,Valor Unitário,Região
+2023-01-05,João,Notebook,2,3500,Sul
+2023-01-12,Maria,Smartphone,5,1200,Nordeste
+2023-01-15,Carlos,Tablet,3,900,Sudeste
+2023-01-20,Ana,Monitor,4,700,Norte
+2023-01-25,João,Teclado,10,150,Sul
+2023-02-02,Maria,Mouse,15,80,Nordeste
+2023-02-10,Carlos,Notebook,1,3500,Sudeste
+2023-02-18,Ana,Smartphone,3,1200,Norte
+2023-02-22,João,Tablet,2,900,Sul
+2023-03-01,Maria,Monitor,5,700,Nordeste
