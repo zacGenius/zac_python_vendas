@@ -26,6 +26,7 @@ Este projeto demonstra uma análise completa de dados de vendas, incluindo:
 
 ## 📦 Estrutura do Projeto
 
+```md
 zac_python_vendas/
 ├── data/                   # Dados brutos
 │   └── vendas.csv          # Dataset de vendas
@@ -38,7 +39,7 @@ zac_python_vendas/
 │   └── relatorio_vendas.pdf
 ├── README.md               # Este arquivo
 └── requirements.txt        # Dependências
-
+```
 ## 🛠️ Configuração
 
 1. **Clone o repositório**
